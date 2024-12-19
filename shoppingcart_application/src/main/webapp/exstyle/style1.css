@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+body{
+	margin:0px;
+	padding: 0px;
+	background:url(file:///C:/Users/admin/eclipse-workspace/shoppingcart_application/src/main/webapp/images/shoppingpic1.jpg);
+	background-size:cover;
+}
