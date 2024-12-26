@@ -6,9 +6,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Adding product</title>
 </head>
 <body>
+
 
 <form:form action="saveproduct" modelAttribute="productobj">
 Enter brand:<form:input path="brand"/>
