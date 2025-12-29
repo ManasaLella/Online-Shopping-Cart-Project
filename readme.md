@@ -13,5 +13,5 @@ I am Manasa
 - CSS
 
 ## Links
-- GitHub Repository: https://github.com/ManasaLella/Online-Shopping-Cart-Project
+- GitHub Repository: https://github.com/ManasaLella/Online-Shopping-Cart-Project/tree/main/shoppingcart_application
 
